@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Co-Parent Documentation Assistant",
+  "description": "A mobile-first web application to help co-parents document incidents professionally. It uses AI to generate comprehensive, objective summaries suitable for legal review, helping to remove emotional language and focus on factual details.",
+  "requestFramePermissions": []
+}
